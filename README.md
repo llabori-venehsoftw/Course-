@@ -1,2 +1,2 @@
-# Course-
+# CourseC++
 Course C++ begineer
